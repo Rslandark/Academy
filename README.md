@@ -1,2 +1,2 @@
-# academy
-on journey to improve the cyber skills Cyper Security.
+# academy-meorslan
+# الفرق بين الامن السيبراني وامن المعلومات 
